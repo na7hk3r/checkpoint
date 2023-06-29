@@ -1,3 +1,7 @@
 # checkpoint
 
---Mathias Curbelo
+-Mathias Curbelo
+-Mariana Ampudia
+-Leonardo Guzman
+-Lia Torres
+-Luis Millan
